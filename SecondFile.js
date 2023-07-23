@@ -1,6 +1,6 @@
 const kirak = () => {
     
-    console.log('Hello this is my Second  func')
+    console.log('Hello this is my sec  func')
 }
 
 kirak();
