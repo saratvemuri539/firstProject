@@ -1,6 +1,5 @@
 const kirak = () => {
-    
-    console.log('Hello this is my Second  func')
+    console.log('just hello')
 }
 
 kirak();
